@@ -44,7 +44,8 @@ body * {
 
 #container {
   /* margin era preencher os espaços vazios da tela*/
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
   /* No alinhamento em block, uma dica é utilizr o border: 1px solid red;, para ajudar na noção de espaçamento */
